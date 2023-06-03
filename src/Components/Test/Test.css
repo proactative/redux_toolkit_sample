@@ -1,0 +1,26 @@
+.container {
+  margin: auto;
+}
+
+.button {
+  width: 45px;
+  height: 45px;
+  margin-right: 25px;
+  border-radius: 15px;
+  font-size: 30px;
+  border: none;
+  background-color: lightgreen;
+}
+
+.button_reset {
+    width: 100px;
+}
+
+.button_greetings {
+    width: 200px;
+    background-color: darkmagenta;
+}
+
+.count {
+    font-size: 50px;
+}
